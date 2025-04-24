@@ -8,7 +8,7 @@ class Queue {
   }
 
   dequeue() {
-    return this.items.shift(); // You'll fix this later for Task 2
+    return this.items.shift();
   }
 
   peek() {
